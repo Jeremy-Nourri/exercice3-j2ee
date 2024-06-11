@@ -1,0 +1,9 @@
+
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "Dupont" 3 times.(Åúá8óç–´€2J$ed3ef740-e7dc-4a74-86a8-8612ee324c08
+v
+java:S1948".Make "personneList" transient or serializable.(ÙÛºıúÿÿÿÿ8Óı¡´€2J$4fbcb814-94fc-4419-be1e-8d27b54cda1f
+©
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ŞÖÚûÿÿÿÿ8‘…´€2J$c9ea0aa7-9692-40c6-b95c-38fccbe87f7b
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÙÛºıúÿÿÿÿ8’…´€2J$88e7eaa8-596f-4253-8400-2504846f83df
